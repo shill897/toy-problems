@@ -36,7 +36,6 @@ function calculateNetSalary(basicSalary, benefits) {
         }
     }
 
-
     const nssfDeduction = (basicSalary * NSSF_DEDUCTION_PERCENTAGE) / 100;
 
 
